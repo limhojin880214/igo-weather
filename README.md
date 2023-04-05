@@ -7,5 +7,12 @@ react native, expo
 
 api 
 openweathermap (https://openweathermap.org/)
+회원가입하고 api키 받아서 
+/key/apiKey.js 새로 생성후 
+
+const apiKey = '{본인apiKey}';
+export default apiKey;
+
+추가해야함
 
 ing...
